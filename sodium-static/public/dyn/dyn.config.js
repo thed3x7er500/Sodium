@@ -5,7 +5,7 @@ self.__dynamic$config = {
   logLevel: 3,
   bare: {
     version: 3,
-    path: "https://server2.flow-works.me/bare/"
+    path: "https://artclass.site/bare/"
   },
   tab: {
     title: 'Service',
